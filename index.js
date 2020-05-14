@@ -8,7 +8,7 @@ const prefix = "!";
 bot.on('ready', ()=>{
     console.log("Bot is online!")
    
-})
+}) 
 
 
 bot.on('message', (message)=>{
